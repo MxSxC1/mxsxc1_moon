@@ -22,12 +22,19 @@ Given book 1 isn't quite finished yet and most definitely not published, only a 
 The phases of the moon are (in chronological order as they appear in-game) 
 
  Full moon
+ 
  Waning gibbous
+ 
  Last quarter
+ 
  Waning crescent
+ 
  New moon
+ 
  Waxing crescent
+ 
  First quarter
+ 
  Waxing gibbous
 
 
@@ -41,3 +48,6 @@ It works in Vanilla, and with multiple popular shaders using Iris.
 We don't do mods, mixins, or plugins...everything we do works within Mojang framework.
 
 ---
+The Dark Is A Cold Lonely Shadow
+MxSxC1
+www.miscreat.co.uk
